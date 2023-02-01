@@ -1,0 +1,72 @@
+body{
+    background-color: #1F8A70;
+}
+
+#primero{
+    background-color: #301E67;
+    width: 95%;
+    height: 100px;
+    margin: 20px auto;
+
+}
+
+#segundo{
+    background-color: #301E67;
+    width: 95%;
+    height: 300px;
+    margin: 20px auto;
+
+}
+
+#contenido1{
+    width: 95%;
+    height: 300px;
+    margin: 20px auto;
+
+}
+
+#tercero{
+    background-color: #301E67;
+    width: 49%;
+    height: 300px;
+    float: left;
+    
+}
+
+#cuarto{
+    background-color: #301E67;
+    width: 49%;
+    height: 300px;
+    float: right;
+    margin-right: 0;
+}
+
+#quinto{
+    background-color: #301E67;
+    width: 95%;
+    height: 300px;
+    margin: 20px auto;
+}
+
+#contenido2{
+    width: 95%;
+    height: 300px;
+    margin: 20px auto;
+    
+}
+
+#sexto{
+    background-color: #301E67;
+    width: 49%;
+    height: 300px;
+    float: left;
+  
+}
+
+#septimo{
+    background-color: #301E67;
+    width: 49%;
+    height: 300px;
+    float: right;
+    margin-right: 0;
+}
